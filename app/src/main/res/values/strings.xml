@@ -1,0 +1,104 @@
+<resources>
+<string name="app_name">BostonTourGuide</string>
+<string name="title_activity_walking_tours">WalkingTours</string>
+<string name="WalkingTours">Walking Tours</string>
+<string name="Restaurants">Restaurants</string>
+<string name="Museums">Museums</string>
+<string name="NearbyAttractions">Nearby Atteractions</string>
+<string name="SchezuanGourmet">Schezuan Gourmet</string>
+    <string name="burlington">Burlington</string>
+    <string name="chinese">Chinese</string>
+    <string name="Thai">Thai</string>
+    <string name="Pizza">Pizza</string>
+    <string name="Party">Party</string>
+
+
+<string name="SoulofIndia">Soul of India</string>
+<string name="Sudbury">Sudbury</string>
+<string name="Indian">Indian</string>
+<string name="Cafe">Cafe</string>
+<string name="HotPot">HotPot</string>
+<string name="Ethopean">Ethopean</string>
+<string name="Icecream">Icecream</string>
+
+<string name="Cambridge">Cambridge</string>
+<string name="American">American</string>
+<string name="CheesecakeFactory">CheesecakeFactory</string>
+<string name="FlatBreads">FlatBreads</string>
+<string name="SugarnSpice">SugarnSpice</string>
+<string name="Habesha">Habesha</string>
+<string name="Toscanini">Toscanini</string>
+
+<string name="KickstandCafe">KickstandCafe</string>
+<string name="ShabunMein">ShabunMein</string>
+<string name="Punjab">Punjab</string>
+<string name="MassAve">MassAve</string>
+<string name="wooster">wooster</string>
+<string name="Summerville">Summerville</string>
+<string name="Arlington">Arlington</string>
+
+<string name="BostonDowntown">BostonDowntown</string>
+<string name="ArlingtonCenter">Arlington Center</string>
+<string name="MarthasVinyard">MarthasVinyard</string>
+<string name="ProvinceTown">Province Town</string>
+<string name="NewHampshire">New Hampshire</string>
+<string name="HarvardSquare">HarvardSquare</string>
+<string name="RevereBeach">Revere Beach</string>
+
+<string name="NewburyStreet">Newbury Street</string>
+<string name="BeaconHill">Beacon Hill</string>
+<string name="NorthEnd">North End</string>
+<string name="ReviewsGreat">Reviews: Great</string>
+<string name="ReviewsAverage">Reviews: Average</string>
+<string name="ReviewsGood">Reviews: Good</string>
+<string name="CityMarket">City, Market</string>
+
+<string name="Shopping">Shopping</string>
+<string name="Beach">Beach</string>
+<string name="BeachesParty">Beaches, Party</string>
+<string name="Island">Island</string>
+<string name="ShoppingParty">Shopping, Party</string>
+<string name="HistoryFood">History, Food</string>
+<string name="History">History</string>
+
+
+<string name="IslandBeaches">Island, Beaches</string>
+<string name="Sports">Sports</string>
+<string name="Politics">Politics</string>
+<string name="HistoryCulture">History and Culture</string>
+<string name="Science">Science</string>
+<string name="Nature">Nature</string>
+<string name="ArtCulture">Art and Culture</string>
+
+
+<string name="MITRobotics">MIT Robotics</string>
+<string name="HarvardArts">Harvard Arts</string>
+<string name="BostonArts">Boston Arts</string>
+<string name="NaturalScience">Natural Science</string>
+<string name="HistoryMuseum">History Museum</string>
+<string name="MuseumofScience">Museum of Science</string>
+<string name="AfricanHistoryMuseum">African History Museum</string>
+    <string name="USSConstitutionMuseum">USS Constitution Museum</string>
+    <string name="SportsMuseum">Sports Museum</string>
+    <string name="PaulRevereHouse">Paul Revere House</string>
+
+<string name="Time11am">Time 11am</string>
+<string name="Time9am">Time 9am</string>
+<string name="Time5pm">Time 5pm</string>
+<string name="Time12pm">Time 12pm</string>
+    <string name="Time6pm">Time 6pm</string>
+<string name="HarvardandCambridge">Harvard and Cambridge</string>
+<string name="BeaconHillCrimeTour">Beacon Hill Crime Tour</string>
+<string name="NorthEndTour">North End Tour</string>
+
+<string name="FreedomTrailTour">Freedom Trail Tour</string>
+<string name="BostonDowntownTour">Boston Downtown Tour</string>
+<string name="FreedomTrailRunning">Freedom Trail Running</string>
+<string name="LittleItalyFood">Little Italy Food</string>
+<string name="KennedyandIrishHistoryofBoston">Kennedy and Irish History of Boston</string>
+<string name="Duration2Hours">Duration: 2 Hours</string>
+<string name="Duration15Hours">Duration: 1.5 Hours</string>
+
+
+
+</resources>
